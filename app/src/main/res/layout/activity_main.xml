@@ -394,7 +394,7 @@
         android:layout_below="@+id/line8"
         android:layout_marginTop="25dp"
         android:background="@android:color/holo_red_dark"
-        android:onClick="submit"
+        android:onClick="resetScore"
         android:text="Reset" />
 
     <TextView
