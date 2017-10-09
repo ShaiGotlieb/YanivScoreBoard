@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
     int val3;
     int val4;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
